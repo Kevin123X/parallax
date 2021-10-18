@@ -1,4 +1,7 @@
 ![Parallax.js](logo.png)
+```
+视差效果
+```
 
 [![CDNJS](https://img.shields.io/cdnjs/v/parallax.svg)](https://cdnjs.com/libraries/parallax)
 
